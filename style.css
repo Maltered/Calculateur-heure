@@ -1,0 +1,28 @@
+body {
+    padding: 50px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.container {
+    max-width: 600px;
+    text-align: center;
+}
+
+.code-erreur {
+    color: red;
+}
+
+#historique {
+    margin-top: 100px;
+}
+
+input {
+    text-align: center;
+}
+
+#resultat {
+    margin-top: 50px;
+}

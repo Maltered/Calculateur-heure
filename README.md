@@ -1,1 +1,1 @@
-# Additionneur d'heure
+# Calculateur d'heure
